@@ -4,6 +4,7 @@ class_name GDTSettings
 
 const DEFAULT_DATA = {
 	"username": "Cool person",
+	"color": null,
 	"format_version": 1,
 	
 	"last_server": "",
